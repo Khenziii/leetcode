@@ -27,3 +27,4 @@ class Solution:
                 num_to_return -= self.romans[s[index - 1]] * 2
 
         return num_to_return
+
